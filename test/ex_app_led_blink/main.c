@@ -125,6 +125,7 @@ int main(void)
 //        EZBL_ForwardBootloaderISR |= isrForwardMaskBit;
 //    }
     
+    
     int t0,t1;
  
     while(1)
