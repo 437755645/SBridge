@@ -124,6 +124,7 @@ int main(void)
 //        EZBL_GetSymbol(isrForwardMaskBit, EZBL_FORWARD_MASK_U2TX);
 //        EZBL_ForwardBootloaderISR |= isrForwardMaskBit;
 //    }
+    
     int t0,t1;
  
     while(1)
